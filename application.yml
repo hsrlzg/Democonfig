@@ -7,9 +7,3 @@ spring:
   profiles: dev
     application: 
     name: Democonfig-test-dev
-    
----
-spring:
-  profiles: default
-    application: 
-     name: Democonfig-test-default
