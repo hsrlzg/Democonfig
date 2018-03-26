@@ -1,15 +1,7 @@
-{
-    "name": "mmb-config-client",
-    "profiles":
-        "jmx",
-    "label": "master",
-    "version": "4d9240f45fecd34136f81683d44c2e144792af86",
-    "propertySources": [
-        {
-            "name": "https://github.com/mumubin/MMBConfigData/data/mmb-config-client.yml",
-            "source": {
-                "lucky-word": "mmb"
-            }
-        }
-    ]
+{"name":"foo",
+"profiles":["dev"],
+"label":"master",
+"version":"792ffc77c03f4b138d28e89b576900ac5e01a44b",
+"state":null,
+"propertySources":[]
 }
