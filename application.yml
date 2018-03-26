@@ -1,8 +1,7 @@
 {
     "name": "mmb-config-client",
-    "profiles": [
-        "default"
-    ],
+    "profiles":
+        "jmx",
     "label": "master",
     "version": "4d9240f45fecd34136f81683d44c2e144792af86",
     "propertySources": [
